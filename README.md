@@ -15,3 +15,5 @@
 3. f Goed!
 4. i Goed!
 5. s Goed!
+6. e
+7. t
