@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|F|I|.|.|S|
+|F|I|E|T|S|
 |-|-|-|-|-|
 |1|2|3|4|5|
 
@@ -15,5 +15,5 @@
 3. f Goed!
 4. i Goed!
 5. s Goed!
-6. e
-7. t
+6. e Goed!
+7. t Goed!
