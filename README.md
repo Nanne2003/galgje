@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|F|.|.|.|.|
+|F|I|.|.|.|
 |-|-|-|-|-|
 |1|2|3|4|5|
 
@@ -13,4 +13,4 @@
 1. a fout helaas!
 2. d fout helaas!
 3. f Goed!
-4. i
+4. i Goed!
