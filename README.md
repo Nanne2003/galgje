@@ -7,7 +7,7 @@
 |1|2|3|4|5|
 
 ## Score
-![gallow](./images/8.png)
+![gallow](./images/7.png)
 
 ## Beurten
 1. a fout helaas!
